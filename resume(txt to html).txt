@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aarthi J Resume</title>
+   
+</head>
+<body>
+    <header>
+        <h1>Aarthi J</h1>
+        <div class="contact-info">
+            <p>Email: <a href="arthihari2410@gmail.com">arthihari2410@gmail.com</a></p>
+            <p>Contact: 7019242020</p>
+        </div>
+    </header>
+
+    <section class="objective">
+        <h2>Objective</h2>
+        <p>To achieve a thorough understanding of advanced concepts in computer science and ensuring to gain expertise in multiple programming languages and enhancing my technical proficiency.</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>Master's in Computer Application (pursuing)</strong></p>
+        <p>Jyotinivas College Autonomous, Bangalore</p>
+        <p>2023 - 2025</p>
+        <br>
+        <p><strong>Bachelor's in Computer Application (BCA)</strong></p>
+        <p>IZEE College of Information and Science, Bangalore</p>
+        <p>2020 - 2023</p>
+        <br>
+        <p><strong>PUC</strong></p>
+        <p>St. Francis de Sales PU College, Bangalore</p>
+        <p>2018 - 2020</p>
+        <br>
+        <p><strong>SSLC</strong></p>
+        <p>Little Angel's English High School, Bangalore</p>
+        <p>2017 - 2018</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>c</li>
+            <li>c++</li>
+            <li>Java</li>
+            <li>Data Structures and Algorithms</li>
+            <li>html & css</li>
+            </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <p><strong>Portfolio Website</strong></p>
+        <p><em>Technology:</em> HTML, CSS, JavaScript, MySQL</p>
+        <p><em>Tool:</em> Visual Studio Code</p>
+        
+        <p><strong>College Entrance Exam</strong></p>
+        <p><em>Technology:</em> HTML, CSS, JavaScript, MySQL</p>
+        <p><em>Tool:</em> Visual Studio Code</p>
+    </section>
+
+    <section class="language known">
+        <h2>Languages</h2>
+        <li>Tamil</li>
+        <li>English</li>
+        <li>Kannada</li>
+        </section>
+        
+        <footer>
+        <p class="declaration">Declaration: I hereby declare that above details are true to the best of my knowledge and belief.</p>
+    </footer>
+
+</body>
+</html>
