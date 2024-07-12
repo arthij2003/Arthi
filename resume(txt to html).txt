@@ -63,9 +63,11 @@
 
     <section class="language known">
         <h2>Languages</h2>
+        <ul>
         <li>Tamil</li>
         <li>English</li>
         <li>Kannada</li>
+        </ul>
         </section>
         
         <footer>
